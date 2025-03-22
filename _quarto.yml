@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: Federico Bertoia
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - href: index.qmd
+        text: About
+  page-footer: "&#169; Federico Bertoia, 2025"
+      
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
+
