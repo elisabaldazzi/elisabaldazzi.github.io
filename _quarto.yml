@@ -8,10 +8,10 @@ website:
     background: secondary
     search: true
     left:
-      - href: index.qmd
-        text: About
-      - href: research.qmd
-        text: Research
+      - text: Home
+        file: index.qmd
+      - text: Research
+        file: research.qmd
   page-footer: "&#169; Elisa Baldazzi, 2025"
       
 
