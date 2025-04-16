@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: research.qmd
+        text: Research
   page-footer: "&#169; Elisa Baldazzi, 2025"
       
 
