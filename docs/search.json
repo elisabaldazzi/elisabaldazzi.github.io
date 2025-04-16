@@ -1,38 +1,24 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Statistics I, 2nd year B.Sc in Mathematics, Ghent University\nFall 2022, 2023, 2024 [taught in Dutch]\nStatistics III: regression analysis, 3rd year B.Sc in Mathematics, Ghent University\nFall 2022, 2023, 2024 [taught in Dutch]\nStatistics & Probability, 2nd year B.Sc in Computer Science, Ghent University\nFall 2022, 2023, 2024 [taught in Dutch]\nStatistics I(A), 1st year B.Sc in Economics, Ghent University\nFall 2022, 2023, 2024 [taught in Dutch]\nMathematics, 1st year B.Sc in Biomedical Sciences, Ghent University\nFall 2020, 2021 [taught in Dutch] (as job student)"
+    "text": "Seeing Sterotypes [arxiv]\nBaldazzi, E., Biroli, P., Della Giusta, M., Dubois, F.\narXiv preprint arXiv:2503.02146, 2025"
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
     "section": "",
-    "text": "Assumption-free analysis of randomized trials with intercurrent events\nContributed talk at the European Causal Inference Meeting, Ghent, Belgium.\nApr 2025"
+    "text": "Seeing Sterotypes [arxiv]\nBaldazzi, E., Biroli, P., Della Giusta, M., Dubois, F.\narXiv preprint arXiv:2503.02146, 2025"
   },
   {
-    "objectID": "presentations.html#future",
-    "href": "presentations.html#future",
-    "title": "Presentations",
-    "section": "",
-    "text": "Assumption-free analysis of randomized trials with intercurrent events\nContributed talk at the European Causal Inference Meeting, Ghent, Belgium.\nApr 2025"
-  },
-  {
-    "objectID": "presentations.html#past",
-    "href": "presentations.html#past",
-    "title": "Presentations",
-    "section": "Past",
-    "text": "Past\n\nOrthogonal learning of the average treatment effect, conditional on treatment-free outcome mean\nPoster at the Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany.\nAug 2024\nAssumption-Lean Quantile Regression [slides]\nContributed talk at the American Causal Inference Conference, Seattle, Washington, USA\nMay 2024\nAssumption-Lean Quantile Regression\nInvited talk at CMStatistics, Berlin, Germany\nDec 2023\nAssumption-Lean Quantile Regression\nContributed talk at the 30th Annual Meeting of the RSSB, Louvain-la-Neuve, Belgium\nOct 2023\nAssumption-Lean Quantile Regression\nContributed talk at the European Meeting of Statisticians, Warsaw, Poland\nJul 2023"
-  },
-  {
-    "objectID": "presentations.html#seminars",
-    "href": "presentations.html#seminars",
-    "title": "Presentations",
-    "section": "Seminars",
-    "text": "Seminars\n\nOrthogonal learning of the average treatment effect, conditional on treatment-free outcome mean\nCausal inference seminar at the University of Washington, Seattle, Washington, USA\nMay 2024\nAssumption-Lean Quantile Regression\nWork-in-Progress seminar at the University of Luxembourg, Esch-sur-Alzette, Luxembourg\nApr 2023"
+    "objectID": "research.html#conferences",
+    "href": "research.html#conferences",
+    "title": "Research",
+    "section": "Conferences",
+    "text": "Conferences"
   },
   {
     "objectID": "aboutme.html",
@@ -61,13 +47,6 @@
     "title": "Elisa Baldazzi",
     "section": "Education",
     "text": "Education\n\nPhD in Public Governance, Management and Policy, University of Bologna, Italy\nNov 2023 - Sept 2026 (expected)\nMSc in Economics, University of Bologna, Italy\nSept 2021 - Oct 2023\nBSc in Management and Marketing, University of Bologna, Italy\nSept 2018 - July 2021"
-  },
-  {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Elisa Baldazzi",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nSeeing Sterotypes [arxiv]\nBaldazzi, E., Biroli, P., Della Giusta, M., Dubois, F.\narXiv preprint arXiv:2503.02146, 2025"
   },
   {
     "objectID": "index.html#teaching",

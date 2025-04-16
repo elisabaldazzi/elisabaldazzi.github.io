@@ -17,7 +17,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/elisa-baldazzi-351a18158/
-    - icon: bluesky
+    - icon: globe
       text: Bluesky
       href: https://bsky.app/profile/elisabaldazzi.bsky.social
     - icon: twitter
@@ -41,14 +41,9 @@ I am a second-year PhD student in Public Governance, Management and Policy at [U
 -   BSc in Management and Marketing, University of Bologna, Italy\
     Sept 2018 - July 2021
 
-## **Working Papers**
-
--   **Seeing Sterotypes** \[[arxiv](https://arxiv.org/abs/2503.02146)\]\
-    [Baldazzi, E]{.underline}., Biroli, P., Della Giusta, M., Dubois, F.\
-    *arXiv preprint arXiv:2503.02146, 2025*
 
 ## **Teaching**
 
--   Microeconomics, 1st year B.Sc in Management and Economics, University of Bologna\
+-   [Microeconomics](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/478326){style="text-decoration: none"}, 1st year B.Sc in Management and Economics, University of Bologna\
     *Spring 2024* \[taught in English\]
 
