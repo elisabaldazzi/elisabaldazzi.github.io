@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+You can view my CV below:
+
+<iframe src="CV_202501_unibo.pdf" width="100%" height="600px" style="border:1px solid #ccc;"></iframe>

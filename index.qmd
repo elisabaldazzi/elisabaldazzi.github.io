@@ -21,19 +21,20 @@ about:
       text: Bluesky
       href: https://bsky.app/profile/elisabaldazzi.bsky.social
     - icon: twitter
-      text: X (Twitter)
+      text: Twitter
       href: https://x.com/elibaldazzi
     - icon: github
       text: Github
       href: https://github.com/elisabaldazzi
 ---
 
+
 I am a second-year PhD student in Public Governance, Management and Policy at [University of Bologna](https://www.unibo.it/en/homepage){style="text-decoration: none"} under the supervision of Prof. Dr. [Pietro Biroli](https://sites.google.com/site/pietrobiroli/){style="text-decoration: none"} (University of Bologna) and Prof. Dr. [Marina Della Giusta](https://mardelgiu.com/){style="text-decoration: none"} (University of Turin). My research lies in applied microeconomics and economics of education. If you want to get in touch, please don't hesitate to contact me.
 
 ## **Education**
 
 -   PhD in Public Governance, Management and Policy, University of Bologna, Italy\
-    Nov 2023 - Sept 2026 (expected)
+    Nov 2023 - Nov 2026 (expected)
 
 -   MSc in Economics, University of Bologna, Italy\
     Sept 2021 - Oct 2023
@@ -44,6 +45,5 @@ I am a second-year PhD student in Public Governance, Management and Policy at [U
 
 ## **Teaching**
 
--   [Microeconomics](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2024/478326){style="text-decoration: none"}, 1st year B.Sc in Management and Economics, University of Bologna\
-    *Spring 2024* \[taught in English\]
-
+-   [Microeconomics](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2023/478326){style="text-decoration: none"}, 1st year B.Sc in Management and Economics, University of Bologna\
+    *Spring 2024, 2026* 

@@ -8,8 +8,12 @@ website:
     background: secondary
     search: true
     left:
-      - href: index.qmd
-        text: About
+      - text: Home
+        file: index.qmd
+      - text: Research
+        file: research.qmd
+      - text: Curriculum Vitae
+        file: cv.qmd
   page-footer: "&#169; Elisa Baldazzi, 2025"
       
 
@@ -23,4 +27,3 @@ format:
     page-layout: full
 
 editor: visual
-
