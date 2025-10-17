@@ -7,8 +7,6 @@ title: "Curriculum Vitae"
 format: html
 ---
 
-You can view my CV below:
-
 <!-- Desktop iframe -->
 <iframe class="desktop-only" 
         src="CV_Elisa_Baldazzi.pdf" 
@@ -19,7 +17,7 @@ You can view my CV below:
 
 <!-- Mobile link -->
 <p class="mobile-only">
-  <a href="CV_Elisa_Baldazzi.pdf" target="_blank">Open my CV</a>
+  <a href="CV_Elisa_Baldazzi.pdf" target="_blank">Download CV</a>
 </p>
 
 <!-- CSS to hide/show elements based on screen size -->
