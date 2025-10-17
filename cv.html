@@ -304,8 +304,22 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>You can view my CV below:</p>
-<iframe src="CV_202501_unibo.pdf" width="100%" height="600px" style="border:1px solid #ccc;">
+<!-- Desktop iframe -->
+<iframe class="desktop-only" src="CV_Elisa_Baldazzi.pdf" width="100%" height="600px" style="border:1px solid #ccc;">
 </iframe>
+<!-- Mobile link -->
+<p class="mobile-only">
+<a href="CV_Elisa_Baldazzi.pdf" target="_blank">Open my CV</a>
+</p>
+<!-- CSS to hide/show elements based on screen size -->
+<style>
+  @media (max-width: 768px) {
+    .desktop-only { display: none; }
+  }
+  @media (min-width: 769px) {
+    .mobile-only { display: none; }
+  }
+</style>
 
 
 
