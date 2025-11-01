@@ -4,6 +4,11 @@
     [Baldazzi, E]{.underline}., Biroli, P., Della Giusta, M., Dubois, F.\
     *arXiv preprint arXiv:2503.02146, 2025*
 
+## **Work in Progress**
+
+- *Cognitive and Non Cognitive Outcomes of the Scout Method*
+- *Do LVLMs See Stereotypes as We Do? A Social Science Framework for Evaluating LVLMs’ Recognition and Explanation of Stereotypes in Images* with Marco Madeddu, Chiara Ferrando, Horacio Jarquín Vásquez, Marina Della Giusta, Viviana Patti.
+
 
 ## **Presentations**
 
