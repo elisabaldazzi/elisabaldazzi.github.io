@@ -31,7 +31,28 @@ My research is in the **economics of education**, **gender economics** and **app
 
 ## News
 
-::: {.news}
-- [Jan 2027]{.news-date} I will present at the [CSWEP session of the AEA/ASSA Annual Meeting](https://www.aeaweb.org/about-aea/committees/cswep/news-and-events/annual-meeting) in Washington, DC.
-- [Dec 2026]{.news-date} I will present at the [19th UniTO-CCA Ph.D. Workshop in Economics](https://www.workshopecon.carloalberto.org/) in Turin (December 14–15).
+[Coming to one of these? I'd love to catch up, so come say hi!]{.news-intro}
+
+::: {.news-cards}
+::: {.news-card}
+[[Dec]{.nc-month} [2026]{.nc-year}]{.nc-date}
+
+::: {.nc-body}
+[I'm presenting]{.nc-tag}
+[[19th UniTO-CCA Ph.D. Workshop in Economics](https://www.workshopecon.carloalberto.org/)]{.nc-title}
+[<i class="bi bi-geo-alt"></i> Turin, Italy · Dec 14–15]{.nc-where}
 :::
+:::
+
+::: {.news-card}
+[[Jan]{.nc-month} [2027]{.nc-year}]{.nc-date}
+
+::: {.nc-body}
+[I'm presenting]{.nc-tag}
+[[CSWEP session, AEA/ASSA Annual Meeting](https://www.aeaweb.org/about-aea/committees/cswep/news-and-events/annual-meeting)]{.nc-title}
+[<i class="bi bi-geo-alt"></i> Washington, DC]{.nc-where}
+:::
+:::
+:::
+
+[<i class="bi bi-cup-hot"></i> Will you be there too? [Drop me a line](mailto:elisa.baldazzi3@unibo.it) and let's grab a coffee.]{.news-cta}
