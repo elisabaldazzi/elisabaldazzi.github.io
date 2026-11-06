@@ -31,9 +31,9 @@ My research is in the **economics of education**, **gender economics** and **app
 
 ## News
 
-::: {.news}
 [Coming to one of these? Come say hi, I'd love to catch up!]{.news-intro}
 
-- [Dec 2026]{.news-date} Presenting at the [19th UniTO-CCA Ph.D. Workshop in Economics](https://www.workshopecon.carloalberto.org/), Turin (December 14–15).
-- [Jan 2027]{.news-date} Presenting at the [CSWEP session of the AEA/ASSA Annual Meeting](https://www.aeaweb.org/about-aea/committees/cswep/news-and-events/annual-meeting), Washington, DC.
+::: {.news}
+- [[Dec]{.nd-m} [2026]{.nd-y}]{.news-date} [[19th UniTO-CCA Ph.D. Workshop in Economics](https://www.workshopecon.carloalberto.org/)]{.news-title} [Presenting · Turin, Italy · Dec 14–15]{.news-meta}
+- [[Jan]{.nd-m} [2027]{.nd-y}]{.news-date} [[CSWEP session, AEA/ASSA Annual Meeting](https://www.aeaweb.org/about-aea/committees/cswep/news-and-events/annual-meeting)]{.news-title} [Presenting · Washington, DC]{.news-meta}
 :::
